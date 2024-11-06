@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IvZvDSSRy4=",
+  "success": true,
+  "projectFilePath": "/Users/lukaslarsen/code/dbConnect/dbConnect.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.1/microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.configuration.json/8.0.1/microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/lukaslarsen/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
